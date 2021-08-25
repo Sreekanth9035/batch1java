@@ -1,7 +1,7 @@
 class file
 {
-  public static void main(string args[])
+  public static void main(String args[])
   {
-    system.out.println("Welcome to Devops");
+    System.out.println("Welcome to Devops");
   }
 } 
